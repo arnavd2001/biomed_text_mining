@@ -1,4 +1,4 @@
-# biomed_text_mining
+# Biomedical Text Mining using NLP
 
 Named entity recognition (NER) is known as one of the most fundamental tasks in biomedical text mining which aims to automatically recognize and classify biomedical entities such as genes, proteins, chemicals, and diseases from the text. State-of-the-art NER systems often require handcrafted features specific to each entity type, such as genes, chemicals, etc. 
 
