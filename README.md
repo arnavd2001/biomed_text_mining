@@ -8,6 +8,6 @@ This project of ours is providing a neural network-based multi-task learning fra
 
 The BiLSTM (bidirectional long short-term memory) layer models the context information of each character. The hidden states of the BiLSTM layer are fed into the CRF layer to optimize sequence tagging with the help of adjacent tags. We are using a neural network-based multi-task learning framework. 
 
-Multi-task learning offers a solution by collectively training a model on several related tasks so that each task benefits model learning in other tasks without introducing additional errors. 
+Multi-task learning offers a solution by collectively training a model on several related tasks so that each task benefits model learning in other tasks without introducing additional errors . 
 
 MTL is a subfield of machine learning in which multiple learning tasks are solved at the same time while exploiting commonalities and differences across tasks.
